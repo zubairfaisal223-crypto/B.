@@ -1,0 +1,6 @@
+{
+  "name": "B. Crochet Boutique",
+  "description": "Luxury handmade crochet boutique in Pakistan offering bespoke crochet flowers, bouquets, bags, plushies, and custom creations with delivery across Pakistan in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
